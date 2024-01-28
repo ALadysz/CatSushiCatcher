@@ -13,7 +13,7 @@ https://github.com/ALadysz/CatSushiCatcher/assets/114247615/e3252762-12ca-4830-8
 - **GUI** - https://assetstore.unity.com/packages/2d/gui/extra-clean-ui-138812
 - **Backgrounds**- https://assetstore.unity.com/packages/2d/textures-materials/tiles/2d-casual-background-hd-v-4-97414
 - **SFX** - https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
-#### Bacground Music: 
+#### Background Music: 
 - https://assetstore.unity.com/packages/audio/music/arcade-game-bgm-17-210775
 - https://assetstore.unity.com/packages/audio/music/casual-game-bgm-5-135943
 - https://assetstore.unity.com/packages/audio/music/lo-fi-chillout-music-for-games-213270
