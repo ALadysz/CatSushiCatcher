@@ -1,5 +1,14 @@
-# assessment-2-ALadysz
+# Cat Sushi Catcher
 
+
+
+
+
+https://github.com/ALadysz/CatSushiCatcher/assets/114247615/feac4c1b-8558-4fea-95fb-6070d4660208
+
+
+  
+[Youtube Video](https://youtu.be/g3fdo88qsus)
 I chose to make a golf/pinball hybrid for this assessment.
 Inspired by Sushi Cat made by Armor Games (NOT MINE)- my game is based on slightly different mechanics though.
 Wait for cat to be above desired position to drop and click the drop button to make it fall.
